@@ -1,2 +1,2 @@
 # golang
-golang class assignments completed when i attended the golang programming in ucsc extension santa clara 
+golang class assignments from my course and  also misc test modules
