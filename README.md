@@ -1,2 +1,2 @@
 # golang
-golang class assignments from my course and  also misc test modules
+golang sample code to review misc features using golang
