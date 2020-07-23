@@ -23,7 +23,7 @@ func handleRequests() {
 }
 
 func main() {
-	fmt.Println("Go ORM Tutorial")
+	fmt.Println("Go ORM Testing")
 
 	InitialMigration()
 
